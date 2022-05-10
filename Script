@@ -1,1 +1,2 @@
-
+-- shocked I make this still work
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IRFMonkey/monkey-hub/main/Script"))()
